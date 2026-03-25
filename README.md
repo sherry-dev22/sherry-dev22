@@ -5,7 +5,7 @@
 I build **cool web apps**, **smart IoT projects**, and experiment with **AI magic**.  
 I like keeping things simple, fast, and futuristic. 🚀  
 
-![Header GIF]([https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://giphy.com/gifs/sonic-freaky-rizz-wKJSRY2OgYx2m6R4oA)) 
+![Header GIF](https://giphy.com/gifs/sonic-freaky-rizz-wKJSRY2OgYx2m6R4oA) 
 
 ---
 
