@@ -1,6 +1,6 @@
 # Hey there, I'm Sheryar 👋
 
-> Full Stack Dev | AI & IoT Explorer | Web Wizard ⚡  
+> Full Stack Dev | AI & IoT  | I Build High-Converting Websites for Businesses & Startups ⚡  
 
 I build **cool web apps**, **smart IoT projects**, and experiment with **AI magic**.  
 I like keeping things simple, fast, and futuristic. 🚀  
