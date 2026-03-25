@@ -5,7 +5,7 @@
 I build **cool web apps**, **smart IoT projects**, and experiment with **AI magic**.  
 I like keeping things simple, fast, and futuristic. 🚀  
 
-![Header GIF](https://giphy.com/gifs/sonic-freaky-rizz-wKJSRY2OgYx2m6R4oA) 
+![Header GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXc4bDBqbHA0bG9vNmc0aGNwZmIwMHZ0aGliNDVuMmM4Mnd4c2NqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKJSRY2OgYx2m6R4oA/giphy.gif) 
 
 ---
 
@@ -28,7 +28,6 @@ I like keeping things simple, fast, and futuristic. 🚀
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) 
 
-
 ### Backend / APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge) 
@@ -42,7 +41,6 @@ I like keeping things simple, fast, and futuristic. 🚀
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
-
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
