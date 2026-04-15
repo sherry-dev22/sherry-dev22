@@ -5,7 +5,7 @@
 I build **cool web apps**, **smart IoT projects**, and experiment with **AI magic**.  
 I like keeping things simple, fast, and futuristic. 🚀  
 
-![Header GIF]
+
 <img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/bafb3ded-1b04-49d1-a188-c56a7f8d8476" />
 
 
