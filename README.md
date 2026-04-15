@@ -5,7 +5,8 @@
 I build **cool web apps**, **smart IoT projects**, and experiment with **AI magic**.  
 I like keeping things simple, fast, and futuristic. 🚀  
 
-![Header GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXc4bDBqbHA0bG9vNmc0aGNwZmIwMHZ0aGliNDVuMmM4Mnd4c2NqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKJSRY2OgYx2m6R4oA/giphy.gif) 
+![Header GIF]
+(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJ3ejB3OWd0aXhnZXp4ZDhxcW5vc2dkcDc5anVvNXZ6dGhsZnkwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)
 
 ---
 
