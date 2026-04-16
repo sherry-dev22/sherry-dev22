@@ -1,4 +1,4 @@
-# Hey there, I'm Sheryar 👋
+# Hello, I'm Sheryar 👋
 
 > Full Stack Dev | AI & IoT  | I Build High-Converting Websites for Businesses & Startups ⚡  
 
