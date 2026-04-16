@@ -76,7 +76,7 @@ I like keeping things simple, fast, and futuristic. 🚀
 
 ## ⚡ Fun Fact
 I’m all about **tech experiments**, **learning new stuff daily**, and **sharing the hype** with the world 🌎💡  
-When not coding, you’ll find me vibing with **tech memes** or **AI art experiments**. 😎  
+When not coding, you’ll find me vibing with **tech memes** **AI art experiments**, or **Horse-Back Riding** 😎  
 
 ---
 
